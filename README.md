@@ -1,4 +1,4 @@
-awesome-python-webapp
+yoho-appium-python-webapp
 =====================
 
-A python webapp tutorial.
+A python webapp demo
